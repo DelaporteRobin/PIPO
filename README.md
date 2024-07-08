@@ -1,6 +1,27 @@
 # PIPO STANDALONE - By Quazar
 
-A new Pipeline manager for autodesk maya, working as a standalone outside of maya
+
+A Standalone pipeline manager for Autodesk Maya that include
+features of project customization:
+
+(Features to come)
+- 3D Scenes filenames
+- Folder structures
+- Exporting process
+- Shading networking
+
+and also others features as:
+
+- Detect performances knobs in Pipeline and give solutions scripts to fix them
+- Creation of asset library on the computer through projects (even old projects)
+- Real time monitoring of the project you are working on
+- Share assets between projects you worked on before
+
+
+> [!IMPORTANT]
+> To create the visual side of that application I am using a library
+called Textual, which will allow you to merge the flexibility that a Console can
+give you, while using the same widgets you are used to.
 
 
 ### > Dev tasklist : 
